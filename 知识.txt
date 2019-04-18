@@ -1,0 +1,1 @@
+老一点的 Debian 或 Ubuntu Linux，要把命令改为sudo apt-get install git-core，因为以前有个软件也叫 GIT（GNU Interactive Tools），结果 Git 就只能叫git-core了。由于 Git 名气实在太大，后来就把 GNU Interactive Tools改成 gnuit，git-core 正式改为 git。
